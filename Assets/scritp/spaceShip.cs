@@ -16,7 +16,7 @@ public class spaceShip : MonoBehaviour
 	// Update is called once per frame
 	void Update () {
 		transform.Translate(speed, 0f, 0f);
-		
+		//asdasdsasd
 	}
 
 	public void OnCollision2D(Collision2D collision) {
